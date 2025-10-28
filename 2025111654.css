@@ -1,0 +1,107 @@
+.a{
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: white;
+	width: calc(100% / 4);
+	height: 65%;
+}
+
+.b{
+	position: absolute;
+	right: 0;
+	top: 0;
+	background-color: blue;
+	width: calc(100% / 4);
+	height: 65%;
+}
+
+.c{
+	position: absolute;
+	right: 25%;
+	top: 0;
+	background-color: red;
+	width: calc(100% / 4);
+	height: 65%;
+}
+
+.d{
+	position: absolute;
+	right: 50%;
+	top: 0;
+	background-color: yellow;
+	width: calc(100% / 4);
+	height: 65%;
+}
+
+.e{
+	position: absolute;
+	top: 65%;
+	left: 0;
+	background-color: magenta;
+	width: calc(100% / 3);
+	height: 10%;
+}
+
+.f{
+	position: absolute;
+	top: 65%;
+	left: calc(100% / 3);
+	background-color: black;
+	width: calc(100% / 3);
+	height: 10%;
+}
+
+.g{
+	position: absolute;
+	top: 65%;
+	right: 0;
+	background-color: cyan;
+	width: calc(100% / 3);
+	height: 10%;
+}
+
+.h{
+	position: absolute;
+	top: 75%;
+	right: 0;
+	background-color: rebeccapurple;
+	width: calc(100% / 4);
+	height: 25%;
+}
+
+.i{
+	position: absolute;
+	top: 75%;
+	left: 0;
+	background-color: darkblue;
+	width: calc(100% / 4);
+	height: 25%;
+}
+
+.j{
+	position: absolute;
+	top: 75%;
+	left: 25%;
+	background-color: whitesmoke;
+	width: calc(100% / 4);
+	height: 25%;
+}
+
+.k{
+	position: absolute;
+	top: 75%;
+	left: 50%;
+	background-color: dimgray;
+	width: calc(100% / 8);
+	height: 25%;
+}
+
+.l{
+	position: absolute;
+	top: 75%;
+	right: 25%;
+	background-color: black;
+	width: calc(100% / 8);
+	height: 25%;
+}
